@@ -55,6 +55,16 @@ Corriente de norton:
  ![image](https://user-images.githubusercontent.com/85320165/126407679-d0c96d07-91af-446d-ba41-fc4b9c336fe3.png)
  
  ![image](https://user-images.githubusercontent.com/85320165/126408028-b71478e2-7e92-48b4-b850-139af5e0ddb3.png)
+ 
+ 29. Vea el circuito de la figura 9-85:
+ 
+a. Encuentre el circuito equivalente de Norton externo a RL.
+
+b. Use el circuito equivalente para determinar IL cuando RL  20 kohm y
+cuando RL  50 kohm.
+
+![image](https://user-images.githubusercontent.com/85320165/126408260-46f9122f-4cf8-4da3-8fda-146f787c20ec.png)
+
 
           
 4.VIDEO
