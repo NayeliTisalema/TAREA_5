@@ -26,6 +26,18 @@ Analizar y comprender el cpitulo 7 - 8 del libro de "Analisis de circuitos elect
 
 
 3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+CAPITULO 9 del 27-55
+
+27. Repita el problema 25 para el circuito de la figura 9-83.
+
+-  Encuentre el circuito equivalente de Norton externo a RL en el circuito de la
+figura 9-83. Use el circuito equivalente para encontrar IL para el circuito.
+
+![image](https://user-images.githubusercontent.com/85320165/126403214-667057b6-206b-4e1a-a9db-755f2cad38cb.png)
+
+
+
   
 
 
