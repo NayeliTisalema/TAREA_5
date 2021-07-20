@@ -36,10 +36,25 @@ figura 9-83. Use el circuito equivalente para encontrar IL para el circuito.
 
 ![image](https://user-images.githubusercontent.com/85320165/126403214-667057b6-206b-4e1a-a9db-755f2cad38cb.png)
 
+Resistencia de Norton:
 
+![image](https://user-images.githubusercontent.com/85320165/126404258-6b8f7a92-5638-4d5f-ae99-7308ee6eef86.png)
+
+![image](https://user-images.githubusercontent.com/85320165/126405094-59c9108c-1d9c-4cf9-b9c6-ce0fdddb8ca0.png)
+
+
+Corriente de norton:
+
+![image](https://user-images.githubusercontent.com/85320165/126405004-0fb3521c-6af3-42f1-9ee0-9d7942fcdf2d.png)
+
+![image](https://user-images.githubusercontent.com/85320165/126406273-6f7e00a5-f6ee-402e-94c9-7dfcbbe52c83.png)
 
   
-
+ -IL
+ 
+ ![image](https://user-images.githubusercontent.com/85320165/126407679-d0c96d07-91af-446d-ba41-fc4b9c336fe3.png)
+ 
+ ![image](https://user-images.githubusercontent.com/85320165/126408028-b71478e2-7e92-48b4-b850-139af5e0ddb3.png)
 
           
 4.VIDEO
