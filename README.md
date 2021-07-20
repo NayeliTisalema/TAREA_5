@@ -65,6 +65,19 @@ cuando RL  50 kohm.
 
 ![image](https://user-images.githubusercontent.com/85320165/126408260-46f9122f-4cf8-4da3-8fda-146f787c20ec.png)
 
+a) Resistencia de Norton
+
+![image](https://user-images.githubusercontent.com/85320165/126409344-2ff7a550-db81-446f-9ebf-e27971ef7d29.png)
+
+![image](https://user-images.githubusercontent.com/85320165/126409396-f7af8a2a-5ee4-47d3-bc2f-d696b47ee6d4.png)
+
+![image](https://user-images.githubusercontent.com/85320165/126409539-4846ffed-4d97-4e2c-8483-f1332629b41c.png)
+
+b)
+
+
+
+
 
           
 4.VIDEO
