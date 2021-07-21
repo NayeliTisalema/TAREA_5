@@ -108,7 +108,9 @@ a)
 
 ![image](https://user-images.githubusercontent.com/85320165/126413259-6bb57b16-2508-4af3-b271-16f02155fd75.png)
 
+
 b)
+
 ![image](https://user-images.githubusercontent.com/85320165/126412104-2d584767-08a6-4593-88cb-1a326a185629.png)
 
 ![image](https://user-images.githubusercontent.com/85320165/126412380-39d67810-f624-4ac0-827a-e15f2ed3148c.png)
@@ -123,7 +125,9 @@ b)
 
 ![image](https://user-images.githubusercontent.com/85320165/126413259-6bb57b16-2508-4af3-b271-16f02155fd75.png)
 
+33. Repita el problema 31 para el circuito de la figura 9-91.
 
+![image](https://user-images.githubusercontent.com/85320165/126414120-c80a157c-2477-4274-8708-2c849e9830be.png)
 
 
 
