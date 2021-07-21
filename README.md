@@ -24,10 +24,76 @@ Analizar y comprender el cpitulo 7 - 8 del libro de "Analisis de circuitos elect
 
 2.MARCO TEÓRICO (RESUMEN)
 
+![2](https://user-images.githubusercontent.com/85522189/126420784-2b3f3c10-36fb-4844-8455-f0e5f7ba0d9b.PNG)
+![1](https://user-images.githubusercontent.com/85522189/126420765-d7d078d5-1697-477c-9ed9-8438de1d39ed.PNG)
+
 
 3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-CAPITULO 9 del 27-55
+CAPITULO 9 
+
+1. Dado el circuito de la figura 9-75, use la superposición para calcular la corriente a través de cada uno de los resistores.
+
+![3](https://user-images.githubusercontent.com/85522189/126421236-73f9be8c-c6ab-49d4-8e18-97290f24c888.PNG)
+
+3. Use la superposición para encontrar el voltaje Va y la corriente I en el circuito de la figura 9-77.
+
+![4](https://user-images.githubusercontent.com/85522189/126421518-38a7e5b3-501d-4b1e-a3db-aebfe20e3383.PNG)
+
+![5](https://user-images.githubusercontent.com/85522189/126421527-0ffcfac2-2ac4-498e-957d-072685a880c6.PNG)
+
+5. En el circuito de la figura 9-79, ¿cuál debe ser el valor de la fuente de voltaje desconocida para asegurar que la corriente a través de la carga sea IL= 5 mA, tal y como se muestra? Verifique los resultados mediante la superposición.
+
+![1](https://user-images.githubusercontent.com/85522189/126422289-100a6cd2-20a8-404e-a732-fdf546a4dd1f.PNG)
+
+7. Encuentre el equivalente de Thévenin externo a RL en el circuito de la figura 9-81. Use el circuito equivalente para encontrar Vab.
+
+![2](https://user-images.githubusercontent.com/85522189/126422377-9145da7d-4709-4bb4-a2fd-744b5c9c6926.PNG)
+
+9. Repita el problema 7 para el circuito de la figura 9-83.
+
+![3](https://user-images.githubusercontent.com/85522189/126422412-910306cd-502f-45f6-b9c7-b338f24fedbd.PNG)
+
+11. Vea el circuito de la figura 9-85:
+a Encuentre el circuito equivalente de Thévenin externo a RL.
+b. Use el circuito equivalente para determinar Vab cuando RL =20 Ω y cuando RL = 50Ω.
+
+![4](https://user-images.githubusercontent.com/85522189/126422445-a8002b87-7287-4bb9-8f93-91a941b25bd4.PNG)
+
+13. Vea el circuito de la figura 9-87:
+a. Encuentre el circuito equivalente de Thévenin externo a las terminales indicadas.
+b. Use el circuito equivalente de Thévenin para determinar la corriente a través de las ramas indicadas.
+
+![5](https://user-images.githubusercontent.com/85522189/126422477-dbe7f1aa-8f3a-4688-9243-85030c67272f.PNG)
+
+15. Vea el circuito de la figura 9-89:
+a. Encuentre el circuito equivalente de Thévenin externo a las terminales que se indican.
+b. Use el circuito equivalente de Thévenin para determinar la corriente a través de las ramas que se indican.
+
+![6](https://user-images.githubusercontent.com/85522189/126422530-9b501774-f2f3-4886-89db-44f1ce5df510.PNG)
+
+17. Vea el circuito de la figura 9-91:
+a. Encuentre el circuito equivalente de Thévenin externo a RL.
+b. Use el circuito equivalente de Thévenin para encontrar la corriente I cuando RL= 0, 10 kΩ y 50 kΩ.
+
+![7](https://user-images.githubusercontent.com/85522189/126422615-bd25a833-ce80-43de-8a0a-1ecaa86b8cbb.PNG)
+
+19. Repita el problema 17 para el circuito de la figura 9-93.
+
+![8](https://user-images.githubusercontent.com/85522189/126422669-79134ae7-84b1-422a-8423-77e351f3d85e.PNG)
+
+21. Encuentre el circuito equivalente de Thévenin de la red externa a las ramas que se indican, como se muestra en la figura 9-95.
+
+![9](https://user-images.githubusercontent.com/85522189/126422730-3b2f2599-d32d-425f-ae12-07d008c1db6a.PNG)
+
+23. Repita el problema 22 para el circuito de la figura 9-97
+
+![10](https://user-images.githubusercontent.com/85522189/126423526-1a015a02-794e-4396-8bc9-aa2d1bbde0ad.PNG)
+
+25. Encuentre el circuito equivalente de Norton externo a RL en el circuito de la figura 9-81. Use el circuito equivalente para encontrar IL para el circuito.
+
+![11](https://user-images.githubusercontent.com/85522189/126423582-b627db21-be29-4022-a3c7-b2df31a2742d.PNG)
+
 
 27. Repita el problema 25 para el circuito de la figura 9-83.
 
@@ -180,95 +246,7 @@ Usamos superposicion
 
 ![image](https://user-images.githubusercontent.com/85320165/126419628-0f8ab1da-8544-4cce-b14f-5324eea05cdc.png)
 
-35. Repita el problema 31 para el circuito de la figura 9-95.
 
-![image](https://user-images.githubusercontent.com/85320165/126419956-e3e2c84b-8aa9-457a-ae06-989354278c62.png)
-
-![image](https://user-images.githubusercontent.com/85320165/126420026-75b1a7d5-0a16-4d2b-8142-d2abfe2bb713.png)
-
-![image](https://user-images.githubusercontent.com/85320165/126420105-46b2d638-e2f6-40fa-bbad-d1a6a1ea191f.png)
-
-![image](https://user-images.githubusercontent.com/85320165/126420129-b9d5b1f7-8663-4177-bd09-314bfbf91a77.png)
-
-37. a. Para el circuito de la figura 9-91 determine el valor de RL para que se suministre la máxima potencia a la carga.
-
-b. Calcule el valor de la máxima potencia que puede ser suministrada a la carga.
-
-c. Dibuje la curva de potencia contra resistencia cuando RL se ajusta de 0Ω a 50 kΩ en incrementos de 5 k_.
-
-![image](https://user-images.githubusercontent.com/85320165/126420187-b3bbfe41-3003-4e9f-9ac6-d1dccfcf8a06.png)
-
-![image](https://user-images.githubusercontent.com/85320165/126420210-77681163-7bb5-4c99-8fc2-361e0401af32.png)
-
-![image](https://user-images.githubusercontent.com/85320165/126420252-862d157d-4b37-42b8-b8ce-95dd4cbe117d.png)
-
-39. a. Para el circuito de la figura 9-99 encuentre el valor de R de manera que RL = RTh.
-
-b. Calcule la máxima potencia disipada por RL.
-
-![image](https://user-images.githubusercontent.com/85320165/126420312-66c90950-d3e2-43ce-ab2b-6514adeb9764.png)
-
-![image](https://user-images.githubusercontent.com/85320165/126420374-1cc34be1-89fd-4776-9543-a26018f3625e.png)
-
-![image](https://user-images.githubusercontent.com/85320165/126420403-5ea9f46c-ef2e-4c91-94bc-70e4ae13ad09.png)
-
-41. a. Para el circuito de la figura 9-101 determine los valores de R1 y R2 de manera que la carga de 32 kΩ reciba la máxima potencia.
-
-b. Calcule la máxima potencia suministrada por RL.
-
-![image](https://user-images.githubusercontent.com/85320165/126420475-4af0452f-ab63-46af-aa6c-7409880e8dda.png)
-
-![image](https://user-images.githubusercontent.com/85320165/126420538-9060e712-1d05-4886-89c5-8724094e22bc.png)
-
-![image](https://user-images.githubusercontent.com/85320165/126420613-69bb97c7-bbeb-4ef1-8c27-9fd44a0ce810.png)
-
-
-43. Si la porción indicada del circuito de la figura 9-102 se reemplaza con una fuente de voltaje y un resistor en serie de 50 _, determine la magnitud y polaridad la fuente de voltaje resultante.
-
-![image](https://user-images.githubusercontent.com/85320165/126420643-90976c4a-33fc-4fc7-8f40-0448c96d8446.png)
-
-![image](https://user-images.githubusercontent.com/85320165/126420664-60a9758e-51c7-4def-a59c-ed87f2933ecb.png)
-
-45. Use el Teorema de Millman para encontrar la corriente y la potencia disipada por RL en el circuito de la figura 9-103.
-
-![image](https://user-images.githubusercontent.com/85320165/126420719-dd1249e2-6441-4110-bcae-93a4c425c356.png)
-
-![image](https://user-images.githubusercontent.com/85320165/126420761-585b94dc-5e67-47e6-adf5-371052fc4333.png)
-
-![image](https://user-images.githubusercontent.com/85320165/126420812-cdeb0264-c793-4d3b-9cf8-e3170ae4bf28.png)
-
-47. Repita el problema 45 para el circuito de la figura 9-105.
-
-![image](https://user-images.githubusercontent.com/85320165/126420843-c7855fb4-5ed3-4c1d-ae52-8a297a9f0577.png)
-
-![image](https://user-images.githubusercontent.com/85320165/126420905-7ff42b11-be7a-419f-ba9a-e3b28c02134c.png)
-
-![image](https://user-images.githubusercontent.com/85320165/126421021-7a8694ff-8ed2-4570-a4c1-12d96864ee61.png)
-
-49. a. Determine la corriente I en el circuito de la figura 9-107.
-
-
-b. Demuestre que la reciprocidad se aplica en el circuito dado.
-
-![image](https://user-images.githubusercontent.com/85320165/126421063-1fd5bea6-dcc4-43ed-95ef-4267d31a2264.png)
-
-![image](https://user-images.githubusercontent.com/85320165/126421111-2c571312-bdb4-460f-9c65-b2e2431ccdfe.png)
-
-![image](https://user-images.githubusercontent.com/85320165/126421155-6309fc69-d82d-4c49-9a12-257f3963216b.png)
-
-
-
-51. a. Determine el voltaje V en el circuito de la figura 9-109.
-
-b. Demuestre que la reciprocidad se aplica en el circuito dado.
-
-![image](https://user-images.githubusercontent.com/85320165/126421187-7f78dbe9-ae06-4f2f-b931-4be01424a149.png)
-
-
-![image](https://user-images.githubusercontent.com/85320165/126421208-cc7a8660-50e6-4f07-bcb9-99ff086bb0ac.png)
-
-
-![image](https://user-images.githubusercontent.com/85320165/126421222-6e3a5307-222a-42f3-ac4e-fb2f61094fc6.png)
 
 
 
