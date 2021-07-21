@@ -152,7 +152,9 @@ Usamos superposicion
 
 ![image](https://user-images.githubusercontent.com/85320165/126419628-0f8ab1da-8544-4cce-b14f-5324eea05cdc.png)
 
+
 b)
+
 ![image](https://user-images.githubusercontent.com/85320165/126414120-c80a157c-2477-4274-8708-2c849e9830be.png)
 
 Resistencia de norton 
