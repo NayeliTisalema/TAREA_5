@@ -129,6 +129,55 @@ b)
 
 ![image](https://user-images.githubusercontent.com/85320165/126414120-c80a157c-2477-4274-8708-2c849e9830be.png)
 
+Resistencia de norton 
+
+![image](https://user-images.githubusercontent.com/85320165/126419415-5932fd5e-9e9c-429a-97c4-a957d246f2b1.png)
+
+![image](https://user-images.githubusercontent.com/85320165/126419477-be034340-7159-4cea-9563-da8d3e31a88d.png)
+
+Corriente de Norton
+
+Usamos superposicion
+
+![image](https://user-images.githubusercontent.com/85320165/126419535-fbd060f7-45c1-446c-8532-38dfd39fa57c.png)
+
+
+![image](https://user-images.githubusercontent.com/85320165/126419548-6391e996-ffea-4470-aa24-c7e3ca7bae55.png)
+
+![image](https://user-images.githubusercontent.com/85320165/126419567-746e431f-ca8d-452e-ac45-2edcc1724942.png)
+
+![image](https://user-images.githubusercontent.com/85320165/126419585-4c24da78-9271-481a-a365-2bccf7b6f77b.png)
+
+![image](https://user-images.githubusercontent.com/85320165/126419613-2707c1d4-54f8-429a-997b-1aa233bdc2ce.png)
+
+![image](https://user-images.githubusercontent.com/85320165/126419628-0f8ab1da-8544-4cce-b14f-5324eea05cdc.png)
+
+b)
+![image](https://user-images.githubusercontent.com/85320165/126414120-c80a157c-2477-4274-8708-2c849e9830be.png)
+
+Resistencia de norton 
+
+![image](https://user-images.githubusercontent.com/85320165/126419415-5932fd5e-9e9c-429a-97c4-a957d246f2b1.png)
+
+![image](https://user-images.githubusercontent.com/85320165/126419477-be034340-7159-4cea-9563-da8d3e31a88d.png)
+
+Corriente de Norton
+
+Usamos superposicion
+
+![image](https://user-images.githubusercontent.com/85320165/126419535-fbd060f7-45c1-446c-8532-38dfd39fa57c.png)
+
+
+![image](https://user-images.githubusercontent.com/85320165/126419548-6391e996-ffea-4470-aa24-c7e3ca7bae55.png)
+
+![image](https://user-images.githubusercontent.com/85320165/126419567-746e431f-ca8d-452e-ac45-2edcc1724942.png)
+
+![image](https://user-images.githubusercontent.com/85320165/126419585-4c24da78-9271-481a-a365-2bccf7b6f77b.png)
+
+![image](https://user-images.githubusercontent.com/85320165/126419613-2707c1d4-54f8-429a-997b-1aa233bdc2ce.png)
+
+![image](https://user-images.githubusercontent.com/85320165/126419628-0f8ab1da-8544-4cce-b14f-5324eea05cdc.png)
+
 
 
 
