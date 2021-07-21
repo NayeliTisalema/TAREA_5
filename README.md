@@ -73,7 +73,45 @@ a) Resistencia de Norton
 
 ![image](https://user-images.githubusercontent.com/85320165/126409539-4846ffed-4d97-4e2c-8483-f1332629b41c.png)
 
+![image](https://user-images.githubusercontent.com/85320165/126410400-51c50ec0-1cf0-4ca0-9355-cf84dcb6b5c0.png)
+
+
 b)
+
+![image](https://user-images.githubusercontent.com/85320165/126410626-0509688e-2b27-42f1-bf2c-67b0997a09f7.png)
+
+![image](https://user-images.githubusercontent.com/85320165/126410959-6abe28ab-d7a5-41c1-97ce-53b275f56bec.png)
+
+![image](https://user-images.githubusercontent.com/85320165/126410982-bb9634ea-9772-4c40-93c9-9241a0454fba.png)
+
+
+31. a. Encuentre el circuito equivalente de Norton externo a las terminales que se
+indican en la figura 9-87.
+
+b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivalente de Norton.
+
+![image](https://user-images.githubusercontent.com/85320165/126411151-100c7c90-bd66-4f8f-aa13-880ec02f8f59.png)
+
+a)
+
+![image](https://user-images.githubusercontent.com/85320165/126412104-2d584767-08a6-4593-88cb-1a326a185629.png)
+
+![image](https://user-images.githubusercontent.com/85320165/126412380-39d67810-f624-4ac0-827a-e15f2ed3148c.png)
+
+![image](https://user-images.githubusercontent.com/85320165/126412532-ad62f971-217d-4d80-8945-c3bfb3ebe603.png)
+
+![image](https://user-images.githubusercontent.com/85320165/126412720-445116e5-535c-4819-927c-dc9e6ac7b0fe.png)
+
+![image](https://user-images.githubusercontent.com/85320165/126412482-1ab54157-2955-40be-b8db-f887eb6c5685.png)
+
+![image](https://user-images.githubusercontent.com/85320165/126413116-6ee65c06-4af7-48c9-85bb-4c09f871d4f1.png)
+
+![image](https://user-images.githubusercontent.com/85320165/126413259-6bb57b16-2508-4af3-b271-16f02155fd75.png)
+
+b)
+
+
+
 
 
 
